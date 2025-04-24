@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"spr_greenhoppa",
-  "bboxMode":0,
-  "bbox_bottom":132,
+  "bboxMode":2,
+  "bbox_bottom":128,
   "bbox_left":45,
-  "bbox_right":170,
+  "bbox_right":169,
   "bbox_top":54,
   "collisionKind":1,
   "collisionTolerance":0,

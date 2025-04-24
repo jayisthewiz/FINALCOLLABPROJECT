@@ -21,10 +21,11 @@ move_x = move_x * walk_speed;
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 4C209272
+/// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "collisions_tilemap"
-var l4C209272_0 = instance_place(0, y + 2, [collisions_tilemap]);
+var l4C209272_0 = instance_place(x + 0, y + 2, [collisions_tilemap]);
 if ((l4C209272_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Common.Variable
