@@ -35,6 +35,7 @@
   "name":"FINALPROJECTJPTE",
   "resources":[
     {"id":{"name":"obj_cloud","path":"objects/obj_cloud/obj_cloud.yy",},},
+    {"id":{"name":"obj_deathzone","path":"objects/obj_deathzone/obj_deathzone.yy",},},
     {"id":{"name":"obj_softspitta","path":"objects/obj_softspitta/obj_softspitta.yy",},},
     {"id":{"name":"obj_sora","path":"objects/obj_sora/obj_sora.yy",},},
     {"id":{"name":"obj_spdrstation","path":"objects/obj_spdrstation/obj_spdrstation.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
     {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},},
+    {"id":{"name":"spr_deathzone","path":"sprites/spr_deathzone/spr_deathzone.yy",},},
     {"id":{"name":"spr_softspitta","path":"sprites/spr_softspitta/spr_softspitta.yy",},},
     {"id":{"name":"spr_soradeath","path":"sprites/spr_soradeath/spr_soradeath.yy",},},
     {"id":{"name":"spr_soraidle","path":"sprites/spr_soraidle/spr_soraidle.yy",},},

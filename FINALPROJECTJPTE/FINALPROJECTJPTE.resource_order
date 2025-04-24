@@ -18,11 +18,13 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_cloud","order":1,"path":"objects/obj_cloud/obj_cloud.yy",},
+    {"name":"obj_deathzone","order":5,"path":"objects/obj_deathzone/obj_deathzone.yy",},
     {"name":"obj_softspitta","order":3,"path":"objects/obj_softspitta/obj_softspitta.yy",},
     {"name":"obj_spdrstation","order":4,"path":"objects/obj_spdrstation/obj_spdrstation.yy",},
     {"name":"obj_spdrwalk","order":2,"path":"objects/obj_spdrwalk/obj_spdrwalk.yy",},
     {"name":"spr_bg","order":9,"path":"sprites/spr_bg/spr_bg.yy",},
     {"name":"spr_cloud","order":8,"path":"sprites/spr_cloud/spr_cloud.yy",},
+    {"name":"spr_deathzone","order":10,"path":"sprites/spr_deathzone/spr_deathzone.yy",},
     {"name":"spr_softspitta","order":5,"path":"sprites/spr_softspitta/spr_softspitta.yy",},
     {"name":"spr_soradeath","order":4,"path":"sprites/spr_soradeath/spr_soradeath.yy",},
     {"name":"spr_sorajumping","order":3,"path":"sprites/spr_sorajumping/spr_sorajumping.yy",},
