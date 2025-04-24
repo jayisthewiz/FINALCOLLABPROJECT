@@ -35,8 +35,10 @@
   "name":"FINALPROJECTJPTE",
   "resources":[
     {"id":{"name":"obj_cloud","path":"objects/obj_cloud/obj_cloud.yy",},},
+    {"id":{"name":"obj_softspitta","path":"objects/obj_softspitta/obj_softspitta.yy",},},
     {"id":{"name":"obj_sora","path":"objects/obj_sora/obj_sora.yy",},},
-    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
+    {"id":{"name":"obj_spdrstation","path":"objects/obj_spdrstation/obj_spdrstation.yy",},},
+    {"id":{"name":"obj_spdrwalk","path":"objects/obj_spdrwalk/obj_spdrwalk.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
     {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},},

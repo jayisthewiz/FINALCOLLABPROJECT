@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"obj_spdrstation",
   "eventList":[],
   "managed":true,
-  "name":"Object3",
+  "name":"obj_spdrstation",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_stationspdr",
+    "path":"sprites/spr_stationspdr/spr_stationspdr.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

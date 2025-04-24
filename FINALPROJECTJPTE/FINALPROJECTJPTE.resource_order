@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_cloud","order":1,"path":"objects/obj_cloud/obj_cloud.yy",},
-    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"obj_softspitta","order":3,"path":"objects/obj_softspitta/obj_softspitta.yy",},
+    {"name":"obj_spdrstation","order":4,"path":"objects/obj_spdrstation/obj_spdrstation.yy",},
+    {"name":"obj_spdrwalk","order":2,"path":"objects/obj_spdrwalk/obj_spdrwalk.yy",},
     {"name":"spr_bg","order":9,"path":"sprites/spr_bg/spr_bg.yy",},
     {"name":"spr_cloud","order":8,"path":"sprites/spr_cloud/spr_cloud.yy",},
     {"name":"spr_softspitta","order":5,"path":"sprites/spr_softspitta/spr_softspitta.yy",},
