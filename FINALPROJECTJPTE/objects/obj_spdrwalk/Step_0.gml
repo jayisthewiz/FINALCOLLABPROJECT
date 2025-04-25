@@ -17,6 +17,7 @@ show_debug_message(string("debug message"));
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "collisions_tilemap"
+/// @DnDArgument : "destroylist" "false"
 var l114A04B9_0 = instance_place(x + 0, y + 2, [collisions_tilemap]);
 if ((l114A04B9_0 > 0))
 {
@@ -58,10 +59,9 @@ if ((l114A04B9_0 > 0))
 	/// @DnDParent : 114A04B9
 	/// @DnDArgument : "x" "x + (30 * sign(move_x)) "
 	/// @DnDArgument : "y" "y + 50"
-	/// @DnDArgument : "y_relative" "1"
 	/// @DnDArgument : "object" "collisions_tilemap"
 	/// @DnDArgument : "not" "1"
-	var l465485FC_0 = instance_place(x + (30 * sign(move_x)) , y + y + 50, [collisions_tilemap]);
+	var l465485FC_0 = instance_place(x + (30 * sign(move_x)) , y + 50, [collisions_tilemap]);
 	if (!(l465485FC_0 > 0))
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
@@ -69,9 +69,8 @@ if ((l114A04B9_0 > 0))
 		/// @DnDHash : 0384B9DF
 		/// @DnDParent : 465485FC
 		/// @DnDArgument : "expr" "move_x * -1"
-		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "move_x"
-		move_x += move_x * -1;
+		move_x = move_x * -1;
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
@@ -105,9 +104,10 @@ else
 	/// @DnDHash : 2AAAF7A7
 	/// @DnDParent : 6C0ED337
 	/// @DnDArgument : "var" "move_y"
+	/// @DnDArgument : "not" "1"
 	/// @DnDArgument : "op" "1"
 	/// @DnDArgument : "value" "10"
-	if(move_y < 10)
+	if(!(move_y < 10))
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
