@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_deathzone","order":5,"path":"objects/obj_deathzone/obj_deathzone.yy",},
+    {"name":"obj_demenite","order":7,"path":"objects/obj_demenite/obj_demenite.yy",},
     {"name":"obj_greenhoppa","order":6,"path":"objects/obj_greenhoppa/obj_greenhoppa.yy",},
     {"name":"obj_softspitta","order":3,"path":"objects/obj_softspitta/obj_softspitta.yy",},
     {"name":"obj_spdrstation","order":4,"path":"objects/obj_spdrstation/obj_spdrstation.yy",},
@@ -25,6 +26,7 @@
     {"name":"spr_bg","order":9,"path":"sprites/spr_bg/spr_bg.yy",},
     {"name":"spr_cloud","order":8,"path":"sprites/spr_cloud/spr_cloud.yy",},
     {"name":"spr_deathzone","order":10,"path":"sprites/spr_deathzone/spr_deathzone.yy",},
+    {"name":"spr_demenite","order":14,"path":"sprites/spr_demenite/spr_demenite.yy",},
     {"name":"spr_greenhoppa","order":11,"path":"sprites/spr_greenhoppa/spr_greenhoppa.yy",},
     {"name":"spr_softspitta","order":5,"path":"sprites/spr_softspitta/spr_softspitta.yy",},
     {"name":"spr_soradeath","order":4,"path":"sprites/spr_soradeath/spr_soradeath.yy",},

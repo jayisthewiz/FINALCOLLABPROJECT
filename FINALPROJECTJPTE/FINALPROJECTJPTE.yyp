@@ -35,6 +35,7 @@
   "name":"FINALPROJECTJPTE",
   "resources":[
     {"id":{"name":"obj_deathzone","path":"objects/obj_deathzone/obj_deathzone.yy",},},
+    {"id":{"name":"obj_demenite","path":"objects/obj_demenite/obj_demenite.yy",},},
     {"id":{"name":"obj_greenhoppa","path":"objects/obj_greenhoppa/obj_greenhoppa.yy",},},
     {"id":{"name":"obj_softspitta","path":"objects/obj_softspitta/obj_softspitta.yy",},},
     {"id":{"name":"obj_sora","path":"objects/obj_sora/obj_sora.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
     {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},},
     {"id":{"name":"spr_deathzone","path":"sprites/spr_deathzone/spr_deathzone.yy",},},
+    {"id":{"name":"spr_demenite","path":"sprites/spr_demenite/spr_demenite.yy",},},
     {"id":{"name":"spr_greenhoppa","path":"sprites/spr_greenhoppa/spr_greenhoppa.yy",},},
     {"id":{"name":"spr_softspitta","path":"sprites/spr_softspitta/spr_softspitta.yy",},},
     {"id":{"name":"spr_soradeath","path":"sprites/spr_soradeath/spr_soradeath.yy",},},
